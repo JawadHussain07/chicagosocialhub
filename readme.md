@@ -1,12 +1,24 @@
 Chicago Social hub - Real Time Web-APP
 
+Designed and implemented a web-based real-time application for Divvy bikers that will allow them to search and chart Yelp reviewed Chicago social places (restaurants, bars, coffee shops, etc) and plot real-time available docks in near-by Divvy docking stations on Chicago downtown area map.
+
  <img width="826" alt="Screen Shot 2020-03-22 at 5 46 28 PM" src="https://user-images.githubusercontent.com/57274566/77263018-13542600-6c65-11ea-922e-316191ce1703.png">
 
 ![Screen Shot 2020-03-22 at 5 30 07 PM](https://user-images.githubusercontent.com/57274566/77263028-26ff8c80-6c65-11ea-908e-faf3fb86c414.png)
 
 
 
-Designed and implemented a web-based real-time application for Divvy bikers that will allow them to search and chart Yelp reviewed Chicago social places (restaurants, bars, coffee shops, etc) and plot real-time available docks in near-by Divvy docking stations on Chicago downtown area map.
+[Screen Shot 2020-03-22 at 5 30 26 PM](https://user-images.githubusercontent.com/57274566/77263031-2bc44080-6c65-11ea-88b9-22aac4ac2489.png)
+
+
+
+![Screen Shot 2020-03-22 at 5 30 58 PM](https://user-images.githubusercontent.com/57274566/77263040-3252b800-6c65-11ea-9b9f-0150773fb6cb.png)
+
+
+![Screen Shot 2020-03-22 at 5 31 12 PM](https://user-images.githubusercontent.com/57274566/77263041-38e12f80-6c65-11ea-8081-2aef8ef3b5dc.png)
+
+
+
 
 #Requirements: 
 1. Angular 7 or higher
